@@ -1,0 +1,28 @@
+{
+  "properties": [
+    {
+    "name": "auto.redisson.host",
+    "type": "java.lang.String",
+    "description": "redis服务器地址",
+    "defaultValue": "localhost"
+    },
+    {
+      "name": "auto.redisson.port",
+      "type": "java.lang.Integer",
+      "description": "redis服务器端口",
+      "defaultValue": 6379
+    },
+    {
+      "name": "auto.redisson.ssl",
+      "type": "java.lang.Boolean",
+      "description": "redis是否启用ssl支持",
+      "defaultValue": false
+    },
+    {
+      "name": "auto.redisson.timeout",
+      "type": "java.lang.Integer",
+      "description": "redis服务器连接超时时间",
+      "defaultValue": 0
+    }
+  ]
+}

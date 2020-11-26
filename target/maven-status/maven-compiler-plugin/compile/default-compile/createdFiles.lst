@@ -1,0 +1,3 @@
+com\redis\test\RedissonAutoConfiguration.class
+META-INF\spring-configuration-metadata.json
+com\redis\test\RedissonProperties.class
